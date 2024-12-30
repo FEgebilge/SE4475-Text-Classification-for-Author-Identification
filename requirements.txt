@@ -1,0 +1,6 @@
+transformers
+pandas
+scikit-learn
+numpy
+tensorflow-macos
+tensorflow-metal
