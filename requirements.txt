@@ -1,6 +1,11 @@
-transformers
-pandas
-scikit-learn
-numpy
+torch>=2.0.0
+transformers>=4.30.0
+scikit-learn>=1.2.0
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
 tensorflow-macos
 tensorflow-metal
+python-dotenv>=1.0.0  # (optional, if you use environment variables)
+ipykernel>=6.0.0      # (optional, for Jupyter kernel support)
